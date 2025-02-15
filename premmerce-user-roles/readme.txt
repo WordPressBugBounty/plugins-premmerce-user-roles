@@ -3,7 +3,7 @@
 Contributors: premmerce
 Tags: user roles, users roles, user roles management,  custom user roles, create custom user role
 Requires at least: 4.8
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.0.13
 Requires PHP: 5.6
 License: GPLv2 or later
